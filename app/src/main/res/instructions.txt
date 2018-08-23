@@ -1,0 +1,3 @@
+res - layout - app_bar_main.xml 		-> Se encarga de la vista del menu lateral
+res - layout - nav_header_main.xml 		-> Cabecera del menu lateral
+red - menu - activity_main_drawer.xml 		-> Items de menu lateral
